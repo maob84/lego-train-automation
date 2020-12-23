@@ -11,6 +11,13 @@ import (
 
 
 // map physical pins
+//
+// Mapping from pinout command:
+//
+// (16) GPIO23
+// (18) GPIO24
+// (22) GPIO25
+//
 var (
 	pinIn1 = rpio.Pin(24)
 	pinIn2 = rpio.Pin(23)

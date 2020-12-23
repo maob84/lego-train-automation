@@ -14,6 +14,7 @@ General idea is:
 ## Raspberry Pi
 
 I just used an old (first generation) Raspberry Pi I found in my junk box. I downloaded an up-to-date Raspbian image (light version without desktop) and put it on an SD card. After adding a wifi USB stick I connected it to my local network.
+To check the pin configuration, I use the ``pinout´´ tool from the python-zero package.
 
 ## LM298
 
