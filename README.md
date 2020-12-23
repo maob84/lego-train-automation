@@ -19,3 +19,5 @@ To check the pin configuration, I use the ``pinout´´ tool from the python-zero
 ## LM298
 
 In my junk box I also found an LM298 module that can be controlled with PWM to provide variable DC current from -12 to +12V. In general I followed https://www.youtube.com/watch?v=2bganVdLg5Q&feature=youtu.be to connect the LM298 module to the GPIOs pin of the Raspberry Pi.
+
+## GO Implementation
